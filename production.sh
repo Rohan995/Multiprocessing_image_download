@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir Rohan
-mv Problem2.sh Rohan
+mv Problem1.sh Rohan
 cd Rohan
 sudo yum update
 sudo yum install git
